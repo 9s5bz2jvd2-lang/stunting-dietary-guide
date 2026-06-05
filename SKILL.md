@@ -68,3 +68,5 @@ tags: [nutrition, pediatrics, stunting, dietary-guide, tcm]
 ## 创建者
 
 王润圆 | 中国注册营养师 | 昆明医科大学营养与食品卫生学硕士
+
+<!-- Maintainer update: Runyuan Wang (9s5bz2jvd2-lang). -->
